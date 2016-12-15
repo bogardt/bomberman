@@ -1,0 +1,24 @@
+Fireup - Increase the bomb blast radius.
+Fire Down - Decrease the bomb blast radius.
+Bomb-Up - Increase the number of bombs that can be set at one time.
+Bomb-Down - Decrease the number of bombs that can be set at one time.
+Skate or speed-up - Increase the movement speed of the player.
+Geta or speed-down- Decrease the movement speed of the player.
+Pierce Bomb - Bomb blast will pass through as many soft blocks as the fire level will allow.
+Power Bomb - Bomb blast will become as large as possible.
+Red Bomb - similar effect to Power Bomb.
+Marble Bomb - Bombs can be thrown like marbles.
+Full Fire - Increase bomb blast radius to maximum.
+Soft Block Pass - Walk through soft blocks freely.
+Bomb Pass - Walk through bombs freely.
+1-Up - Add one extra life to the player's total (Single Player Mode only).
+Heart - Add one HP to the player's total.
+Clock - Add additional time to the timer (Single Player Mode only).
+Power Glove - Allow the player to lift bombs and increase their size in some games.
+Boxing Glove - Allow the player to punch bombs away from them.
+Kick - Allow the player to kick bombs away from them.
+Vest - Make the player invincible for a short time.
+Remote Control - Allow the player to destroy a bomb when they press the button to trigger it.
+Skull - Add a disease effect to the player.
+Salt Bomb - Used to kill Slug enemies (Bomberman Hero only).
+Line Bomb - Deploys all bombs in a straight line. 

@@ -1,0 +1,9 @@
+#!/bin/bash
+if [ -f bomberman ]; then
+    rm bomberman
+fi
+if [ -d build ]; then
+    cd build; make -j4; cd ..; ./bomberman
+else
+    ls && mkdir build && cd build && cmake .. && make -j4 && cd .. && ls
+fi
