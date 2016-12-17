@@ -1,11 +1,5 @@
 //
-// BasicEnemyComponent.cpp for indie studio in /home/barthe_g/rendu/tek2/c++/cpp_indie_studio/source
-// 
-// Made by Barthelemy Gouby
-// Login   <barthe_g@epitech.net>
-// 
-// Started on  Fri May 27 18:50:16 2016 Barthelemy Gouby
-// Last update Fri Jun  3 10:28:04 2016 Barthelemy Gouby
+// Bomberman
 //
 
 #include "BasicEnemyComponent.hh"

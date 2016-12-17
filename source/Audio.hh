@@ -1,11 +1,5 @@
 //
-// Audio.hh for indie studio
-//
-// Made by Thomas Bogard
-// Login   <bogard_t@epitech.net>
-//
-// Started on  Thu Jun  2 16:06:03 2016 Thomas Bogard
-// Last update Sun Jun  5 16:29:18 2016 Thomas Bogard
+// Bomberman
 //
 
 #ifndef		__AUDIO_HH__

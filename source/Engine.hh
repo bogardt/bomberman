@@ -1,11 +1,5 @@
 //
-// Engine.hh for indie studio in /home/barthe_g/rendu/tek2/c++/cpp_indie_studio/source
-//
-// Made by Barthelemy Gouby
-// Login   <barthe_g@epitech.net>
-//
-// Started on  Wed May 11 13:48:23 2016 Barthelemy Gouby
-// Last update Mon Jun 13 17:38:15 2016 Thomas Bogard
+// Bomberman
 //
 
 #ifndef _ENGINE_HH_

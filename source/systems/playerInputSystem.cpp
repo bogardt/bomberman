@@ -1,11 +1,5 @@
 //
-// PlayerInputSystem.cpp for indie studio in /home/barthe_g/rendu/tek2/c++/cpp_indie_studio/source/systems
-//
-// Made by Barthelemy Gouby
-// Login   <barthe_g@epitech.net>
-//
-// Started on  Wed May 18 16:49:48 2016 Barthelemy Gouby
-// Last update Sat Oct 29 20:58:04 2016 bogard_t
+// Bomberman
 //
 
 #include <iostream>

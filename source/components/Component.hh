@@ -1,11 +1,5 @@
 //
-// Component.hh for indie studio in /home/barthe_g/rendu/tek2/c++/cpp_indie_studio
-// 
-// Made by Barthelemy Gouby
-// Login   <barthe_g@epitech.net>
-// 
-// Started on  Mon May  2 12:58:19 2016 Barthelemy Gouby
-// Last update Thu Jun  2 23:05:37 2016 Barthelemy Gouby
+// Bomberman
 //
 
 #ifndef _COMPONENT_HH_
@@ -39,4 +33,3 @@ private:
 };
 
 #endif /* !_COMPONENT_HH_ */
-

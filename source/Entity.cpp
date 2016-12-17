@@ -1,11 +1,5 @@
 //
-// Entity.cpp for indie studio in /home/barthe_g/rendu/tek2/c++/cpp_indie_studio
-// 
-// Made by Barthelemy Gouby
-// Login   <barthe_g@epitech.net>
-// 
-// Started on  Mon May  2 13:46:52 2016 Barthelemy Gouby
-// Last update Wed May 25 13:45:27 2016 Barthelemy Gouby
+// Bomberman
 //
 
 #include "Entity.hh"

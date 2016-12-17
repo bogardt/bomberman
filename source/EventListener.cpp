@@ -1,12 +1,7 @@
 //
-// EventListener.cpp for indieStudio in /home/barthe_g/rendu/tek2/c++/cpp_indie_studio/source
-// 
-// Made by Barthelemy Gouby
-// Login   <barthe_g@epitech.net>
-// 
-// Started on  Wed May 18 15:28:59 2016 Barthelemy Gouby
-// Last update Fri Jun  3 16:39:50 2016 Barthelemy Gouby
+// Bomberman
 //
+
 #include <iostream>
 #include "EventListener.hh"
 
@@ -26,4 +21,3 @@ std::vector<irr::EKEY_CODE>	*EventListener::getKeysDown()
     }
   return (keysDown);
 }
-

@@ -1,11 +1,5 @@
 //
-// Display.hh for indie studio in /home/bogard_t/rendu/cpp_indie_studio/source
-//
-// Made by Thomas Bogard
-// Login   <bogard_t@epitech.net>
-//
-// Started on  Mon May  2 17:12:19 2016 Thomas Bogard
-// Last update Sun Jun 12 11:41:13 2016 Thomas Bogard
+// Bomberman
 //
 
 #ifndef		__DISPLAY_HH__

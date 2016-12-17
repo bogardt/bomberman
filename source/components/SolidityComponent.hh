@@ -1,11 +1,5 @@
 //
-// SolidityComponent.hh for indie studio in /home/barthe_g/rendu/tek2/c++/cpp_indie_studio/source/components
-// 
-// Made by Barthelemy Gouby
-// Login   <barthe_g@epitech.net>
-// 
-// Started on  Fri May 20 13:09:50 2016 Barthelemy Gouby
-// Last update Fri May 20 13:12:09 2016 Barthelemy Gouby
+// Bomberman
 //
 
 #ifndef _SOLIDITY_COMPONENT_HH_

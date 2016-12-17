@@ -1,11 +1,5 @@
 //
-// Audio.cpp for indie studio
-//
-// Made by Thomas Bogard
-// Login   <bogard_t@epitech.net>
-//
-// Started on  Thu Jun  2 16:05:59 2016 Thomas Bogard
-// Last update Sun Jun  5 16:29:25 2016 Thomas Bogard
+// Bomberman
 //
 
 # include "Audio.hh"

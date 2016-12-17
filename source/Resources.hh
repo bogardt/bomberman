@@ -1,11 +1,5 @@
 //
-// Resources.hh for cpp_indie_studio in /home/dupard_e/rendus/cpp_indie_studio/source
-//
-// Made by Erwan Dupard
-// Login   <dupard_e@epitech.net>
-//
-// Started on  Tue May 10 16:02:24 2016 Erwan Dupard
-// Last update Thu May 19 17:46:34 2016 Thomas Bogard
+// Bomberman
 //
 
 #ifndef RESOURCES_HH_

@@ -1,11 +1,5 @@
 //
-// EntityFactory.cpp for indie studio in /home/barthe_g/rendu/tek2/c++/cpp_indie_studio/source
-//
-// Made by Barthelemy Gouby
-// Login   <barthe_g@epitech.net>
-//
-// Started on  Wed May 11 12:08:54 2016 Barthelemy Gouby
-// Last update Sun Jun 12 12:29:18 2016 Thomas Bogard
+// Bomberman
 //
 
 #include "EntityFactory.hh"

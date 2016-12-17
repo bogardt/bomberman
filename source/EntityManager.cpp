@@ -1,11 +1,5 @@
 //
-// EntityManager.cpp for indie studio in /home/barthe_g/rendu/tek2/c++/cpp_indie_studio/source
-//
-// Made by Barthelemy Gouby
-// Login   <barthe_g@epitech.net>
-//
-// Started on  Mon May  2 14:13:17 2016 Barthelemy Gouby
-// Last update Sun Jun  5 19:27:40 2016 Barthelemy Gouby
+// Bomberman
 //
 
 #include "EntityManager.hh"

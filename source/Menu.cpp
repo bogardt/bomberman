@@ -1,11 +1,5 @@
 //
-// Menu.cpp for indie studio in /home/barthe_g/rendu/tek2/c++/cpp_indie_studio/source
-//
-// Made by Barthelemy Gouby
-// Login   <barthe_g@epitech.net>
-//
-// Started on  Thu Jun  2 14:44:36 2016 Barthelemy Gouby
-// Last update Tue Jun 21 12:44:47 2016 Thomas Bogard
+// Bomberman
 //
 
 #include "Menu.hh"

@@ -1,11 +1,5 @@
 //
-// ExplosiveSystem.cpp for indie studio in /home/barthe_g/rendu/tek2/c++/cpp_indie_studio/source
-// 
-// Made by Barthelemy Gouby
-// Login   <barthe_g@epitech.net>
-// 
-// Started on  Mon May 23 12:15:59 2016 Barthelemy Gouby
-// Last update Sun Jun  5 19:54:41 2016 Barthelemy Gouby
+// Bomberman
 //
 
 #include "../Engine.hh"
@@ -38,14 +32,14 @@ void				Engine::_addNewExplosion(const unsigned int &x,
   	{
   	  newExplosion = this->_entityFactory.createExplosion(x, y, 0);
   	  this->_entityManager.addEntity(newExplosion);
-  	  this->_display.createModel(newExplosion);      
+  	  this->_display.createModel(newExplosion);
   	}
     }
 }
 
 void				Engine::ExplosiveSystem()
 {
-  std::vector<Entity*>		*explosives = 
+  std::vector<Entity*>		*explosives =
     this->_entityManager.getEntitiesWithComponents({Component::EXPLOSIVE_COMPONENT});
   std::vector<Entity*>		*solids;
   PositionComponent		*bombPosition;
@@ -67,7 +61,7 @@ void				Engine::ExplosiveSystem()
 	  downIsBlocked = false;
 	  upIsBlocked = false;
 	  bombPosition = (PositionComponent*) explosive->getComponent(Component::POSITION_COMPONENT);
-	  newExplosionCenter = 
+	  newExplosionCenter =
 	    this->_entityFactory.createExplosion(bombPosition->getX(),
 						 bombPosition->getY(),
 						 0);
@@ -100,4 +94,3 @@ void				Engine::ExplosiveSystem()
 	explosiveComponent->setTimerLength(explosiveComponent->getTimerLength() - 1);
     }
 }
-

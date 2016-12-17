@@ -1,11 +1,5 @@
 //
-// PlayerInputComponent.cpp for indie studio in /home/barthe_g/rendu/tek2/c++/cpp_indie_studio/source/components
-// 
-// Made by Barthelemy Gouby
-// Login   <barthe_g@epitech.net>
-// 
-// Started on  Wed May 18 16:42:06 2016 Barthelemy Gouby
-// Last update Wed May 25 12:09:20 2016 Barthelemy Gouby
+// Bomberman
 //
 
 #include "PlayerInputComponent.hh"

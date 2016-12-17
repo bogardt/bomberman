@@ -1,11 +1,5 @@
 //
-// healthSystem.cpp for indie studio in /home/barthe_g/rendu/tek2/c++/cpp_indie_studio/source
-//
-// Made by Barthelemy Gouby
-// Login   <barthe_g@epitech.net>
-//
-// Started on  Wed May 25 15:47:43 2016 Barthelemy Gouby
-// Last update Sat Oct 29 20:39:50 2016 bogard_t
+// Bomberman
 //
 
 #include "../Engine.hh"

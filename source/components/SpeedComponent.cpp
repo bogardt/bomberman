@@ -1,11 +1,5 @@
 //
-// SpeedComponent.cpp for indie studio in /home/barthe_g/rendu/tek2/c++/cpp_indie_studio/source
-// 
-// Made by Barthelemy Gouby
-// Login   <barthe_g@epitech.net>
-// 
-// Started on  Mon May  2 14:22:56 2016 Barthelemy Gouby
-// Last update Wed May 25 12:01:45 2016 Barthelemy Gouby
+// Bomberman
 //
 
 #include "SpeedComponent.hh"

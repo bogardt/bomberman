@@ -1,11 +1,5 @@
 //
-// EventReceiver.cpp for indieStudio in /home/barthe_g/rendu/tek2/c++/cpp_indie_studio/source
-//
-// Made by Barthelemy Gouby
-// Login   <barthe_g@epitech.net>
-//
-// Started on  Wed May 18 15:24:05 2016 Barthelemy Gouby
-// Last update Fri Jun  3 16:49:38 2016 Barthelemy Gouby
+// Bomberman
 //
 
 #include <iostream>

@@ -1,11 +1,5 @@
 //
-// guiSystem.cpp for indie studio
-//
-// Made by Thomas Bogard
-// Login   <bogard_t@epitech.net>
-//
-// Started on  Tue May 24 20:12:10 2016 Thomas Bogard
-// Last update Thu Jun  2 20:34:50 2016 Barthelemy Gouby
+// Bomberman
 //
 
 # include "../Engine.hh"

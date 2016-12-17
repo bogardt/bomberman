@@ -1,11 +1,5 @@
 //
-// Menu.hh for indie studio
-//
-// Made by Thomas Bogard
-// Login   <bogard_t@epitech.net>
-//
-// Started on  Sun Jun  5 15:47:40 2016 Thomas Bogard
-// Last update Mon Jun 13 17:47:57 2016 Thomas Bogard
+// Bomberman
 //
 
 #ifndef _MENU_HH_

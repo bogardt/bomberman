@@ -1,11 +1,5 @@
 //
-// ModelComponent.hh for indie studio in /home/barthe_g/rendu/tek2/c++/cpp_indie_studio/source
-//
-// Made by Barthelemy Gouby
-// Login   <barthe_g@epitech.net>
-//
-// Started on  Mon May  2 16:51:48 2016 Barthelemy Gouby
-// Last update Fri Jun 10 20:26:15 2016 Thomas Bogard
+// Bomberman
 //
 
 #ifndef _MODEL_COMPONENT_HH_

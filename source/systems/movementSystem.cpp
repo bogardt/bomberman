@@ -1,11 +1,5 @@
 //
-// DeplacementSystem.cpp for indie studio in /home/barthe_g/rendu/tek2/c++/cpp_indie_studio/source/systems
-//
-// Made by Barthelemy Gouby
-// Login   <barthe_g@epitech.net>
-//
-// Started on  Wed May 11 15:59:24 2016 Barthelemy Gouby
-// Last update Sun Jun 12 12:10:20 2016 Thomas Bogard
+// Bomberman
 //
 
 #include "../Engine.hh"

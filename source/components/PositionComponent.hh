@@ -1,11 +1,5 @@
 //
-// PositionComponent.hh for indie studio in /home/barthe_g/rendu/tek2/c++/cpp_indie_studio/source
-//
-// Made by Barthelemy Gouby
-// Login   <barthe_g@epitech.net>
-//
-// Started on  Mon May  2 16:11:32 2016 Barthelemy Gouby
-// Last update Fri May 27 13:46:36 2016 Barthelemy Gouby
+// Bomberman
 //
 
 #ifndef _POSITION_COMPONENT_HH_

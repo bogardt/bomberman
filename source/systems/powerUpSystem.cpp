@@ -1,11 +1,5 @@
 //
-// powerUpSystem.cpp for indie studio in /home/barthe_g/rendu/tek2/c++/cpp_indie_studio/source
-//
-// Made by Barthelemy Gouby
-// Login   <barthe_g@epitech.net>
-//
-// Started on  Tue May 24 18:16:05 2016 Barthelemy Gouby
-// Last update Sun Jun  5 16:29:06 2016 Thomas Bogard
+// Bomberman
 //
 
 #include "../Engine.hh"

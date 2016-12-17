@@ -1,11 +1,5 @@
 //
-// Engine.cpp for indie studio in /home/barthe_g/rendu/tek2/c++/cpp_indie_studio/source
-//
-// Made by Barthelemy Gouby
-// Login   <barthe_g@epitech.net>
-//
-// Started on  Wed May 11 14:06:25 2016 Barthelemy Gouby
-// Last update Thu Dec  1 18:47:28 2016 bogard_t
+// Bomberman
 //
 
 #include <stdio.h>
