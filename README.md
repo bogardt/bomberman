@@ -1,7 +1,8 @@
 Bomberman
 =========
 C++ project during my second year at Epitech.
-![click here](https://github.com/bogardt/bomberman/tree/master/textures/presentation.png "presentation-game")
+
+![Presentation](https://github.com/bogardt/bomberman/blob/master/textures/presentation.png?raw=true)
 
 UNIX
 ----
